@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My App</string>
+
+    <!-- login lable  -->
+    <string name="lbl_usuario">Usuario</string>
+    <string name="lbl_contra">Contraseña</string>
+    <string name="btn_autenticar">Validar usuario</string>
+    <string name="val_usuario">El usuario es requerido</string>
+    <string name="val_contra">La contraseña es requerida</string>
+    <string name="msg_fin">Esperando hacer algo</string>
+
+    <string name="lbl_nom">Nombre</string>
+    <string name="lbl_Incontra">Ingrese contraseña</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="btn_registrar">Registrar un nuevo usuario</string>
+    <string name="title_activity_agenda1">Agenda1</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_registro_persona">registro_persona</string>
+
+</resources>
